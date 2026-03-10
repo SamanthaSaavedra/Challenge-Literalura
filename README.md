@@ -53,8 +53,6 @@ DB_USERNAME=tu_usuario
 DB_PASSWORD=tu_contraseña
 ```
 
-> ⚠️ **Nunca subas el archivo `.env` a Git.** Ya está incluido en `.gitignore`.
-
 ### 3. Ejecutar la aplicación
 
 Exporta las variables de entorno y lanza con Maven:
