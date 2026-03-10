@@ -1,6 +1,6 @@
-package com.tuapp.literalura.repository;
+package com.saidavaas.literalura.repository;
 
-import com.tuapp.literalura.model.Libro;
+import com.saidavaas.literalura.model.Libro;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

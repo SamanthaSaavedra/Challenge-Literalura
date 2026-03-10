@@ -1,4 +1,4 @@
-package com.tuapp.literalura.dto;
+package com.saidavaas.literalura.dto;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

@@ -1,4 +1,4 @@
-package com.tuapp.literalura.model;
+package com.saidavaas.literalura.model;
 
 import jakarta.persistence.*;
 import lombok.*;

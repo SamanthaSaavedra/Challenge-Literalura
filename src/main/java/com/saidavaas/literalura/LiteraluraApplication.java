@@ -1,6 +1,6 @@
-package com.tuapp.literalura;
+package com.saidavaas.literalura;
 
-import com.tuapp.literalura.principal.MenuPrincipal;
+import com.saidavaas.literalura.principal.MenuPrincipal;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

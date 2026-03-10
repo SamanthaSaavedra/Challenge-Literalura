@@ -1,4 +1,4 @@
-package com.tuapp.literalura.service;
+package com.saidavaas.literalura.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

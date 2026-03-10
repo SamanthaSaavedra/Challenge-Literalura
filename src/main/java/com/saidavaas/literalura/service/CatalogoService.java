@@ -1,12 +1,12 @@
-package com.tuapp.literalura.service;
+package com.saidavaas.literalura.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.tuapp.literalura.dto.LibroApiDto;
-import com.tuapp.literalura.dto.RespuestaApiDto;
-import com.tuapp.literalura.model.Autor;
-import com.tuapp.literalura.model.Libro;
-import com.tuapp.literalura.repository.AutorRepository;
-import com.tuapp.literalura.repository.LibroRepository;
+import com.saidavaas.literalura.dto.LibroApiDto;
+import com.saidavaas.literalura.dto.RespuestaApiDto;
+import com.saidavaas.literalura.model.Autor;
+import com.saidavaas.literalura.model.Libro;
+import com.saidavaas.literalura.repository.AutorRepository;
+import com.saidavaas.literalura.repository.LibroRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

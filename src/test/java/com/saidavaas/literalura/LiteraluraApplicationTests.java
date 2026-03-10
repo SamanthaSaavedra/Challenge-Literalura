@@ -1,4 +1,4 @@
-package com.tuapp.literalura;
+package com.saidavaas.literalura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

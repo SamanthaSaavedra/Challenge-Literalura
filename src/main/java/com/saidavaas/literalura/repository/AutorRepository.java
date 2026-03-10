@@ -1,6 +1,6 @@
-package com.tuapp.literalura.repository;
+package com.saidavaas.literalura.repository;
 
-import com.tuapp.literalura.model.Autor;
+import com.saidavaas.literalura.model.Autor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

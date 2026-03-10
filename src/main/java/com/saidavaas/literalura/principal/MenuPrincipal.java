@@ -1,6 +1,6 @@
-package com.tuapp.literalura.principal;
+package com.saidavaas.literalura.principal;
 
-import com.tuapp.literalura.service.CatalogoService;
+import com.saidavaas.literalura.service.CatalogoService;
 import org.springframework.stereotype.Component;
 
 import java.util.InputMismatchException;
